@@ -1,7 +1,7 @@
 ### Hi there, I'm Adrian - aka [Sparrow][website] 👋
 ## I'm a Software Engineer, Student, and Game Developer!!
 
-- 🔭 I just created my first GitHub Project Board.
+- 🔭 I have just created my first GitHub Project Board.
 - 🌱 I’m currently learning everything I can :)
 - 👯 I’m working on my graduation project
 - 🥅 2022 Goals: Grow my portfolio and Github profile
