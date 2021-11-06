@@ -1,11 +1,10 @@
 ### Hi there, I'm Adrian - aka [Sparrow][website] 👋
 ## I'm a Software Engineer, Student, and Game Developer!!
 
-- 🔭 I have just created my first GitHub Project Board.
-- 🌱 I’m currently learning everything I can :)
-- 👯 I’m working on my graduation project
-- 🥅 2022 Goals: Grow my portfolio and Github profile
-- ⚡ Fun fact: I love cars and driving
+Personal and Professional development is one of my main interests and that is why I have been looking to develop my skills and knowledge through many paths. Being a Computer Science Student at the University Politehnica of Bucharest and working as a software engineer at Arnia, I gathered experience with technologies such as Java, C#, C/C++, Databases, SQL, Microservices (Docker), bash scripts, and Unity. 
+
+Besides being passionate about programming and pursuing to evolve in this matter, I have also been busy with acquiring and working on my game development skills through personal projects and mentoring students on the game development path as part of the Microsoft Learn Student Ambassadors program. I am hardworking, passionate, and committed to my work, while also being up for new challenges and opportunities.
+
 
 <br/>
 
