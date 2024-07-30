@@ -1,5 +1,4 @@
-### Hi there, I'm Adrian - aka [Sparrow][website] 👋
-## I'm a Software Engineer, Student, and Game Developer!!
+### Hi there, I'm Adrian 👋
 
 Personal and Professional development is one of my main interests and that is why I have been looking to develop my skills and knowledge through many paths. Being a Computer Science Student at the University Politehnica of Bucharest and working as a software engineer at Arnia, I gathered experience with technologies such as Java, C#, C/C++, Databases, SQL, Microservices (Docker), bash scripts, and Unity. 
 
