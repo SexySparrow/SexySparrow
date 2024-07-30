@@ -9,8 +9,6 @@ Besides being passionate about programming and pursuing to evolve in this matter
 
 ### Profile stats:
 ---
-[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SexySparrow&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SexySparrow&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
